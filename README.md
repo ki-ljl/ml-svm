@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/svm-machine%20learning-green)
 # ml-svm
 &emsp;&emsp;SVM是一个很庞杂的体系，前面大概从以下几个方面分别讨论了SVM的大致原理：
 
